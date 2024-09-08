@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Pong.sln"
+    "dotnet.defaultSolution": "AMP_vs_Claudio.sln"
 }
